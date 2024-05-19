@@ -42,12 +42,11 @@ channels = {
 }
 ```
 
-## Running the Bot
+## Running the Code
 
-To run the bot, execute the `main.py` script:
+To run the code, execute the `main.py` script:
 
 ```bash
 python main.py
 ```
-
-The bot will start and listen for messages in the specified channels. When a message is received, the bot will reply with the predefined comment.
+This code will post comments on behalf of your account, no other natros are required
